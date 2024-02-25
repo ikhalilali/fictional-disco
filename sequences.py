@@ -1,3 +1,4 @@
-names = ["Halilu", "Mustafa", "Madina", "Zainab", "Maryam"]
+coordinateX = 10.0
+coordinateY = 20.0
 
-print(names[3])
+coordinate = (10.0, 20.0)
