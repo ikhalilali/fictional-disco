@@ -1,3 +1,3 @@
-name = "Halilu"
+names = ["Halilu", "Mustafa", "Madina", "Zainab", "Maryam"]
 
-print(name[2])
+print(names[3])
